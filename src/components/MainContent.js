@@ -30,7 +30,7 @@ class MainContent extends React.Component {
              
              <div className="row">
                  <div className="col-lg-12 footer-game">
-                     <p className="footer-p">Bored of all the technical stuffs, Let's play a <a className="code-links" href="https://harsh-dn.github.io/simon-game/">game</a> or <a className="code-links" href="https://grumpyyash.github.io/My-music-player/#">music</a> or a <a className="code-links" href="https://harsh-dn.github.io/Music-notes/">band</a></p>
+                     <p className="footer-p">Bored of all the technical stuffs, Let's play a <a className="code-links" href="https://harsh-dn.github.io/simon-game/">game</a> or <a className="code-links" href="https://harsh-dn.github.io/Ganna/#">music</a> or a <a className="code-links" href="https://harsh-dn.github.io/Music-notes/">band</a></p>
                  </div>
              </div>
              <div className="row">
