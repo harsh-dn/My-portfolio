@@ -52,9 +52,9 @@ class RightAbout extends React.Component {
                       <Courses />
                   </div>
 
-                  {/* <div className="row wow bounceIn">
+                  <div className="row wow bounceIn">
                       <Achievement />
-                  </div> */}
+                  </div>
 
                   <div className="row wow bounceIn">
                       <Github />
@@ -68,9 +68,9 @@ class RightAbout extends React.Component {
                       <Apps />
                   </div>
 
-                  {/* <div className="row wow bounceIn">
+                  <div className="row wow bounceIn">
                       <Parti />
-                  </div> */}
+                  </div>
                  </div>
         )
     }

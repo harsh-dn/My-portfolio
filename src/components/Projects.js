@@ -50,31 +50,29 @@ class Projects extends React.Component {
             </div>
           </div>
         </div>
-        
-        {/* <div className="row wow bounceIn">
+        <div className="row wow bounceIn">
           <div className=" col-lg-12">
             <div className="about-me col-lg-10">
-              <h3 className="text-area-h3">MERN-Project</h3><br />
+              <h3 className="text-area-h3">Chess-React</h3>
               <div className="text-area">
                 <div className="text-area-image col-lg-12">
-                  <a href="https://sleepy-retreat-60004.herokuapp.com/"><img className="acm-project" src={require("./Images/Re-engine.png")} alt="reengine-it" /></a><br /><br />
-                  <h5>Re-Engine IT</h5><br />
-                  <Button href="https://github.com/Grumpyyash/ReEngine-IT-MERN" className="button-1" variant="success">More <i class="fas fa-external-link-alt"></i></Button>{' '}
-                  <Button href="https://sleepy-retreat-60004.herokuapp.com/" className="button-1" variant="success">Live Site</Button>{' '}
+                  <a href="https://shatranj.netlify.app/"><img className="acm-project" src={require("./Images/chess.png")} alt="Chess" /></a><br /><br />
+                  <h5>Chess : sharpen yourself</h5><br />
+                  <Button href="https://github.com/harsh-dn/Chess" className="button-1" variant="success">More <i class="fas fa-external-link-alt"></i></Button>{' '}
+                  <Button href="https://shatranj.netlify.app/" className="button-1" variant="success">Live Site</Button>{' '}
                 </div>
-                <p>A simple prototype of Reselling application to enable consumers and sellers to provide with an interactive interface.<br /><br />
-                        Technologies used: React JS, MongoDB, Reactstrap, Node(Express), MDBootstrap
+                <p>A online two player chess game application.<br /><br />
+                        Technologies used: HTML, CSS(Bootstrap), javaScript, React JS
                         </p>
               </div>
             </div>
           </div>
-        </div> */}
+        </div>
 
         <div className="row wow bounceIn">
           <div className=" col-lg-12">
             <div className="about-me col-lg-10">
               <h3 className="text-area-h3">API-Project</h3>
-             {/* <span className="org-name">*PC-recommended</span><br /><br /> */}
               <div className="text-area">
                 <div className="text-area-image col-lg-12">
                   <a href="https://github.com/harsh-dn/Webqole"><img className="acm-project" src={require("./Images/webqole.png")} alt="WebNewz" /></a><br /><br />
@@ -102,9 +100,7 @@ class Projects extends React.Component {
                   <Button href="https://github.com/harsh-dn/Ganna" className="button-1" variant="success">More <i class="fas fa-external-link-alt"></i></Button>{' '}
                   <Button href="https://harsh-dn.github.io/Ganna/#" className="button-1" variant="success">Live Site</Button>{' '}
                 </div>
-                <p>A plain music website with great UI and basic functionalities of play, pause, next, prev, repeat, shuffle, favourite and much more.<br /><br />
-                        Technologies used: HTML, CSS(Bootstrap), JAVASCRIPT(JQUERY)
-                        </p>
+                <p>A plain music website with great UI and basic functionalities of play, pause, next, prev, repeat, shuffle, favourite and much more.</p>
               </div>
             </div>
           </div>

@@ -9,12 +9,12 @@ class Parti extends React.Component {
         return (
             <div className=" col-lg-12">
                       <div className="col-lg-10 work-exp">
-                      <h3 className="text-area-h3"><i class="fas fa-award"></i> Participations</h3><br />
+                      <h3 className="text-area-h3"><i class="fas fa-award"></i> Extra Curriculars</h3><br />
                       <div className="text-area">
-                       <h5>FallFest'20 ACM IIT(ISM)</h5>
-                       <p>WINNER(First Place)</p>
-                       <h5>SPIDER'20 BIT SINDRI</h5>
-                       <p>Among 5 Finalists</p>
+                       <h5>Volunteer at Social Service Council</h5>
+                       <p>IIT BHU</p>
+                       <h5>Block Secretary at BJP Youth Wing</h5>
+                       <p>Paraiya Gaya</p>
                        
                       </div>                       
                       </div>
